@@ -1,0 +1,16 @@
+server:
+  port: 8080
+
+person:
+  lastName: yy
+  age: 18
+  boss: false
+  birth: 1990/1/1
+  maps: {k1: v1,k2: 11}
+  lists: [aa, bb, cc]
+   # - aa
+   # - bb
+   # - cc
+  dog:
+    name: 小狗
+    age: 2
